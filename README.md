@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Youngmh1
 - 👀 I’m interested in ROBOT and AD
 - 🌱 I’m currently learning SLAM and NLP
-- 📫 How to reach me at youngmh@foxmail.com
+- 📫 Reach me at youngmh@foxmail.com
 
 <!---
 Youngmh1/Youngmh1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
