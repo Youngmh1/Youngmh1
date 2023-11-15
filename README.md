@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Youngmh1
-- 👀 I’m interested in ROBOT and AD
+- 👀 I’m interested in ROBOT and Autonomous Vehicles
 - 🌱 I’m currently learning SLAM and NLP
 - 📫 Reach me at youngmh@foxmail.com
 
